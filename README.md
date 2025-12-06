@@ -1,4 +1,4 @@
-# DevOps-lr4
+#ФИТ-2-2024 НМ. Кулаков Андрей. DevOps. ЛР4
 ##Клонируем ВМ. Ставим обеим Сеть Nat. Пробрасываем порты. Ставим статический DHCP. Копируем ключ для ssh в ВМ2.
 <img width="974" height="402" alt="image" src="https://github.com/user-attachments/assets/fe573d0b-d73d-4ec9-aed3-134bde067ee3" />
 <img width="974" height="128" alt="image" src="https://github.com/user-attachments/assets/13f524e9-be9e-4c41-8de2-b2f224c36677" />
