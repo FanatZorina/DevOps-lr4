@@ -1,5 +1,5 @@
 # DevOps-lr4
-##Клонируем ВМ. Ставим обеим Сеть Nat. Пробрасываем порты. Ставим статический DHCP. Копируем ключ в ВМ2.
+##Клонируем ВМ. Ставим обеим Сеть Nat. Пробрасываем порты. Ставим статический DHCP. Копируем ключ для ssh в ВМ2.
 <img width="974" height="402" alt="image" src="https://github.com/user-attachments/assets/fe573d0b-d73d-4ec9-aed3-134bde067ee3" />
 <img width="974" height="128" alt="image" src="https://github.com/user-attachments/assets/13f524e9-be9e-4c41-8de2-b2f224c36677" />
 <img width="974" height="221" alt="image" src="https://github.com/user-attachments/assets/164bf56e-8401-4075-bae4-c9394469e03f" />
