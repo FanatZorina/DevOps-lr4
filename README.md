@@ -5,7 +5,7 @@
 <img width="974" height="221" alt="image" src="https://github.com/user-attachments/assets/164bf56e-8401-4075-bae4-c9394469e03f" />
 ## Правим файл sudoers.
 <img width="974" height="804" alt="image" src="https://github.com/user-attachments/assets/a650248e-a4d8-4437-aa51-6429793a46a9" />
-## Далее создаём папку lab-ansible, туда 3 файла playbook.yml, inventory.ini, index.html. Запускаем плейбук. С ВМ1 и хоста можно проверить исправность.
+## Устанавливаем ansible. Далее создаём папку lab-ansible, туда 3 файла playbook.yml, inventory.ini, index.html. Запускаем плейбук. С ВМ1 и хоста можно проверить исправность.
 <img width="974" height="469" alt="image" src="https://github.com/user-attachments/assets/6f4a3900-699b-4e28-97dd-e92225ce7b65" />
 <img width="498" height="327" alt="image" src="https://github.com/user-attachments/assets/d1731f10-fcd1-4136-a543-4d13c3f26250" />
 
