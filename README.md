@@ -1,4 +1,4 @@
-<img width="974" height="804" alt="image" src="https://github.com/user-attachments/assets/1bab3804-0f56-40b7-84a0-843ce20498b6" /><img width="974" height="804" alt="image" src="https://github.com/user-attachments/assets/4f2d7b19-1540-4c1d-8363-9b592e567273" /># DevOps-lr4
+# DevOps-lr4
 ##Клонируем ВМ. Ставим обеим Сеть Nat. Пробрасываем порты. Ставим статический DHCP. Копируем ключ в ВМ2.
 <img width="974" height="402" alt="image" src="https://github.com/user-attachments/assets/fe573d0b-d73d-4ec9-aed3-134bde067ee3" />
 <img width="974" height="128" alt="image" src="https://github.com/user-attachments/assets/13f524e9-be9e-4c41-8de2-b2f224c36677" />
